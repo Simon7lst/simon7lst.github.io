@@ -1,0 +1,250 @@
+Rank,Country/Region,Code,Purchasing power index,Cost index,Ø Monthly income,,,,,name,alpha-3
+1,Bermuda ,BMU,103.8,157.9,"10,437 USD",,,,,Afghanistan,AFG
+2,Cayman Islands *,CYM,61.7,138.3,"5,433 USD",,,,,Åland Islands,ALA
+3,Switzerland,CHE,89.1,131.4,"7,454 USD",,,,,Albania,ALB
+4,Turks and Caicos Islands *,TCA,25.4,124.6,"2,013 USD",,,,,Algeria,DZA
+5,Israel,ISR,58.1,123.1,"4,554 USD",,,,,American Samoa,ASM
+6,Barbados,BRB,20.8,121.8,"1,613 USD",,,,,Andorra,AND
+7,Iceland,ISL,74.3,120.1,"5,685 USD",,,,,Angola,AGO
+8,Ireland,IRL,96,110.6,"6,756 USD",,,,,Anguilla,AIA
+9,Denmark,DNK,87.8,109.2,"6,100 USD",,,,,Antarctica,ATA
+10,Norway,NOR,115.7,108.1,"7,959 USD",,,,,Antigua and Barbuda,ATG
+11,Australia,AUS,74,107,"5,036 USD",,,,,Argentina,ARG
+12,Bahamas,BHS,39.1,105.5,"2,628 USD",,,,,Armenia,ARM
+13,Vanuatu,VUT,4.5,103.8,297 USD,,,,,Aruba,ABW
+14,Luxembourg,LUX,115.5,103.4,"7,600 USD",,,,,Australia,AUS
+15,New Zealand,NZL,62.6,101.4,"4,038 USD",,,,,Austria,AUT
+16,Canada,CAN,68.5,101.3,"4,413 USD",,,,,Azerbaijan,AZE
+17,United States,GBR,100,100,"6,364 USD",,,,,Bahamas,BHS
+18,United Kingdom,ARE,65,98.5,"4,074 USD",,,,,Bahrain,BHR
+19,Finland,FIN,74.5,95.6,"4,530 USD",,,,,Bangladesh,BGD
+20,Sweden,SWE,87.9,93.9,"5,249 USD",,,,,Barbados,BRB
+21,Iran,IDN,5.5,92.5,325 USD,,,,,Belarus,BLR
+22,Netherlands,NLD,85.3,88.2,"4,786 USD",,,,,Belgium,BEL
+23,Belgium,BEL,73.5,86.8,"4,058 USD",,,,,Belize,BLZ
+24,Japan,JPN,65.4,84.9,"3,537 USD",,,,,Benin,BEN
+25,France,FRA,72.2,83.2,"3,822 USD",,,,,Bermuda,BMU
+26,Austria,AUT,88.5,83.1,"4,678 USD",,,,,Bhutan,BTN
+27,Germany,DEU,85,82.3,"4,449 USD",,,,,Bolivia (Plurinational State of),BOL
+28,Italy,ITA,65.2,75.7,"3,142 USD",,,,,"Bonaire, Sint Eustatius and Saba",BES
+29,South Korea,SGS,62.4,75.6,"2,999 USD",,,,,Bosnia and Herzegovina,BIH
+30,Hong Kong *,HKG,97.3,73.2,"4,531 USD",,,,,Botswana,BWA
+31,Spain,ESP,56.9,73,"2,640 USD",,,,,Bouvet Island,BVT
+32,Singapore,SGP,122,72.1,"5,600 USD",,,,,Brazil,BRA
+33,Qatar,QAT,132.8,69.5,"5,875 USD",,,,,British Indian Ocean Territory,IOT
+34,Portugal,PRT,49.7,67.9,"2,150 USD",,,,,Brunei Darussalam,BRN
+35,United Arab Emirates,ARE,95.4,67.2,"4,079 USD",,,,,Bulgaria,BGR
+36,Macao *,MAC,88.3,66.7,"3,748 USD",,,,,Burkina Faso,BFA
+37,Greece,GRC,42.8,66.5,"1,812 USD",,,,,Burundi,BDI
+38,Czechia,CZE,52.7,66.1,"2,216 USD",,,,,Cabo Verde,CPV
+39,Costa Rica,CRI,27.9,59.4,"1,056 USD",,,,,Cambodia,KHM
+40,Lithuania,LTU,52.4,59.2,"1,974 USD",,,,,Cameroon,CMR
+41,Mexico,MEX,23.3,58.5,868 USD,,,,,Canada,CAN
+42,Chile,CHL,34.5,58.3,"1,280 USD",,,,,Cayman Islands,CYM
+43,China,CHN,29.2,57.6,"1,071 USD",,,,,Central African Republic,CAF
+44,Haiti,HTI,3.7,57.6,134 USD,,,,,Chad,TCD
+45,Croatia,HRV,46.7,54.6,"1,623 USD",,,,,Chile,CHL
+46,Hungary,HUN,49.1,50.7,"1,584 USD",,,,,China,CHN
+47,Brazil,BRA,21.4,49.8,678 USD,,,,,Christmas Island,CXR
+48,Ecuador,ECU,16.6,49.7,526 USD,,,,,Cocos (Keeling) Islands,CCK
+49,Oman,OMN,54.7,48.2,"1,679 USD",,,,,Colombia,COL
+50,El Salvador,SLV,12.8,48.2,393 USD,,,,,Comoros,COM
+51,Serbia,SRB,25.2,47.4,762 USD,,,,,Congo,COG
+52,Poland,POL,51.7,46.5,"1,529 USD",,,,,"Congo, Democratic Republic of the",COD
+53,Albania,ALB,19.2,46.3,564 USD,,,,,Cook Islands,COK
+54,Brunei,BRN,89.5,46,"2,618 USD",,,,,Costa Rica,CRI
+55,Montenegro,MNE,29.8,45.7,867 USD,,,,,Côte d'Ivoire,CIV
+56,Bulgaria,BGR,39.1,44.4,"1,104 USD",,,,,Croatia,HRV
+57,Nigeria,NGA,6.4,43.8,178 USD,,,,,Cuba,CUB
+58,Romania,ROU,47,43.7,"1,305 USD",,,,,Curaçao,CUW
+59,South Africa,ZAF,20.9,42.5,565 USD,,,,,Cyprus,CYP
+60,Saudi Arabia,SAU,85.5,42.2,"2,299 USD",,,,,Czechia,CZE
+61,Mauritius,MUS,33.6,41.9,897 USD,,,,,Denmark,DNK
+62,East Timor,DOM,6.2,41.9,164 USD,,,,,Djibouti,DJI
+63,Russia,ROU,41.4,40.5,"1,069 USD",,,,,Dominica,DMA
+64,Morocco,MAR,12.2,39.7,309 USD,,,,,Dominican Republic,DOM
+65,Kenya,KEN,7.2,39.4,181 USD,,,,,Ecuador,ECU
+66,Colombia,COL,22.3,38.2,543 USD,,,,,Egypt,EGY
+67,Cameroon,CMR,5.9,36.9,138 USD,,,,,El Salvador,SLV
+68,Georgia,GEO,20,36.7,468 USD,,,,,Equatorial Guinea,GNQ
+69,Philippines,PHL,14.2,36.5,329 USD,,,,,Eritrea,ERI
+70,Lesotho,LSO,4.6,36.1,105 USD,,,,,Estonia,EST
+71,Nicaragua,NIC,7.6,35.9,174 USD,,,,,Eswatini,SWZ
+72,Iraq,IRQ,19.2,35.9,439 USD,,,,,Ethiopia,ETH
+73,Bangladesh,BGD,10.3,35.8,235 USD,,,,,Falkland Islands (Malvinas),FLK
+74,Cambodia,KHM,6.2,35.8,142 USD,,,,,Faroe Islands,FRO
+75,Malaysia,MYS,43.8,35.2,982 USD,,,,,Fiji,FJI
+76,Mongolia,MNG,15.8,34.8,351 USD,,,,,Finland,FIN
+77,Thailand,THA,27.3,34.7,603 USD,,,,,France,FRA
+78,Bolivia,BOL,13.2,34.3,288 USD,,,,,French Guiana,GUF
+79,Indonesia,IDN,18.1,33.1,382 USD,,,,,French Polynesia,PYF
+80,Tanzania,TJK,4.8,32.6,100 USD,,,,,French Southern Territories,ATF
+81,Vietnam,VNM,16.2,32.4,334 USD,,,,,Gabon,GAB
+82,Kazakhstan,KAZ,39.1,31.7,789 USD,,,,,Gambia,GMB
+83,Benin,BEN,5.8,31.5,117 USD,,,,,Georgia,GEO
+84,Azerbaijan,AZE,23.4,31.5,469 USD,,,,,Germany,DEU
+85,Turkey,TUR,45.6,30.4,883 USD,,,,,Ghana,GHA
+86,Ukraine,UKR,19,29.5,356 USD,,,,,Gibraltar,GIB
+87,Algeria,DZA,17.7,28.8,325 USD,,,,,Greece,GRC
+88,Bhutan,BTN,14.3,27.7,253 USD,,,,,Greenland,GRL
+89,Tunisia,TUN,18.3,27.5,320 USD,,,,,Grenada,GRD
+90,Ghana,GHA,11.4,27,196 USD,,,,,Guadeloupe,GLP
+91,India,IND,11.6,26.9,198 USD,,,,,Guam,GUM
+92,Kyrgyzstan,KGZ,6.9,26.8,118 USD,,,,,Guatemala,GTM
+93,Nepal,NPL,6.6,26.5,112 USD,,,,,Guernsey,GGY
+94,Laos,LAO,11.7,26.5,197 USD,,,,,Guinea,GIN
+95,Sri Lanka,LKA,18,26.3,301 USD,,,,,Guinea-Bissau,GNB
+96,Egypt,EGY,22.7,23.7,342 USD,,,,,Guyana,GUY
+97,Tajikistan,TJK,6.7,23.5,101 USD,,,,,Haiti,HTI
+98,Pakistan,PAK,8.9,23.1,132 USD,,,,,Heard Island and McDonald Islands,HMD
+99,Myanmar,MMR,7,22.7,101 USD,,,,,Holy See,VAT
+100,Uzbekistan,UZB,13.2,21.7,183 USD,,,,,Honduras,HND
+101,Palestine,PLW,34.2,17.7,384 USD,,,,,Hong Kong,HKG
+,,,,,,,,,,Hungary,HUN
+,,,,,,,,,,Iceland,ISL
+,,,,,,,,,,India,IND
+,,,,,,,,,,Indonesia,IDN
+,,,,,,,,,,Iran (Islamic Republic of),IRN
+,,,,,,,,,,Iraq,IRQ
+,,,,,,,,,,Ireland,IRL
+,,,,,,,,,,Isle of Man,IMN
+,,,,,,,,,,Israel,ISR
+,,,,,,,,,,Italy,ITA
+,,,,,,,,,,Jamaica,JAM
+,,,,,,,,,,Japan,JPN
+,,,,,,,,,,Jersey,JEY
+,,,,,,,,,,Jordan,JOR
+,,,,,,,,,,Kazakhstan,KAZ
+,,,,,,,,,,Kenya,KEN
+,,,,,,,,,,Kiribati,KIR
+,,,,,,,,,,Korea (Democratic People's Republic of),PRK
+,,,,,,,,,,"Korea, Republic of",KOR
+,,,,,,,,,,Kuwait,KWT
+,,,,,,,,,,Kyrgyzstan,KGZ
+,,,,,,,,,,Lao People's Democratic Republic,LAO
+,,,,,,,,,,Latvia,LVA
+,,,,,,,,,,Lebanon,LBN
+,,,,,,,,,,Lesotho,LSO
+,,,,,,,,,,Liberia,LBR
+,,,,,,,,,,Libya,LBY
+,,,,,,,,,,Liechtenstein,LIE
+,,,,,,,,,,Lithuania,LTU
+,,,,,,,,,,Luxembourg,LUX
+,,,,,,,,,,Macao,MAC
+,,,,,,,,,,Madagascar,MDG
+,,,,,,,,,,Malawi,MWI
+,,,,,,,,,,Malaysia,MYS
+,,,,,,,,,,Maldives,MDV
+,,,,,,,,,,Mali,MLI
+,,,,,,,,,,Malta,MLT
+,,,,,,,,,,Marshall Islands,MHL
+,,,,,,,,,,Martinique,MTQ
+,,,,,,,,,,Mauritania,MRT
+,,,,,,,,,,Mauritius,MUS
+,,,,,,,,,,Mayotte,MYT
+,,,,,,,,,,Mexico,MEX
+,,,,,,,,,,Micronesia (Federated States of),FSM
+,,,,,,,,,,"Moldova, Republic of",MDA
+,,,,,,,,,,Monaco,MCO
+,,,,,,,,,,Mongolia,MNG
+,,,,,,,,,,Montenegro,MNE
+,,,,,,,,,,Montserrat,MSR
+,,,,,,,,,,Morocco,MAR
+,,,,,,,,,,Mozambique,MOZ
+,,,,,,,,,,Myanmar,MMR
+,,,,,,,,,,Namibia,NAM
+,,,,,,,,,,Nauru,NRU
+,,,,,,,,,,Nepal,NPL
+,,,,,,,,,,Netherlands,NLD
+,,,,,,,,,,New Caledonia,NCL
+,,,,,,,,,,New Zealand,NZL
+,,,,,,,,,,Nicaragua,NIC
+,,,,,,,,,,Niger,NER
+,,,,,,,,,,Nigeria,NGA
+,,,,,,,,,,Niue,NIU
+,,,,,,,,,,Norfolk Island,NFK
+,,,,,,,,,,North Macedonia,MKD
+,,,,,,,,,,Northern Mariana Islands,MNP
+,,,,,,,,,,Norway,NOR
+,,,,,,,,,,Oman,OMN
+,,,,,,,,,,Pakistan,PAK
+,,,,,,,,,,Palau,PLW
+,,,,,,,,,,"Palestine, State of",PSE
+,,,,,,,,,,Panama,PAN
+,,,,,,,,,,Papua New Guinea,PNG
+,,,,,,,,,,Paraguay,PRY
+,,,,,,,,,,Peru,PER
+,,,,,,,,,,Philippines,PHL
+,,,,,,,,,,Pitcairn,PCN
+,,,,,,,,,,Poland,POL
+,,,,,,,,,,Portugal,PRT
+,,,,,,,,,,Puerto Rico,PRI
+,,,,,,,,,,Qatar,QAT
+,,,,,,,,,,Réunion,REU
+,,,,,,,,,,Romania,ROU
+,,,,,,,,,,Russian Federation,RUS
+,,,,,,,,,,Rwanda,RWA
+,,,,,,,,,,Saint Barthélemy,BLM
+,,,,,,,,,,"Saint Helena, Ascension and Tristan da Cunha",SHN
+,,,,,,,,,,Saint Kitts and Nevis,KNA
+,,,,,,,,,,Saint Lucia,LCA
+,,,,,,,,,,Saint Martin (French part),MAF
+,,,,,,,,,,Saint Pierre and Miquelon,SPM
+,,,,,,,,,,Saint Vincent and the Grenadines,VCT
+,,,,,,,,,,Samoa,WSM
+,,,,,,,,,,San Marino,SMR
+,,,,,,,,,,Sao Tome and Principe,STP
+,,,,,,,,,,Saudi Arabia,SAU
+,,,,,,,,,,Senegal,SEN
+,,,,,,,,,,Serbia,SRB
+,,,,,,,,,,Seychelles,SYC
+,,,,,,,,,,Sierra Leone,SLE
+,,,,,,,,,,Singapore,SGP
+,,,,,,,,,,Sint Maarten (Dutch part),SXM
+,,,,,,,,,,Slovakia,SVK
+,,,,,,,,,,Slovenia,SVN
+,,,,,,,,,,Solomon Islands,SLB
+,,,,,,,,,,Somalia,SOM
+,,,,,,,,,,South Africa,ZAF
+,,,,,,,,,,South Georgia and the South Sandwich Islands,SGS
+,,,,,,,,,,South Sudan,SSD
+,,,,,,,,,,Spain,ESP
+,,,,,,,,,,Sri Lanka,LKA
+,,,,,,,,,,Sudan,SDN
+,,,,,,,,,,Suriname,SUR
+,,,,,,,,,,Svalbard and Jan Mayen,SJM
+,,,,,,,,,,Sweden,SWE
+,,,,,,,,,,Switzerland,CHE
+,,,,,,,,,,Syrian Arab Republic,SYR
+,,,,,,,,,,"Taiwan, Province of China",TWN
+,,,,,,,,,,Tajikistan,TJK
+,,,,,,,,,,"Tanzania, United Republic of",TZA
+,,,,,,,,,,Thailand,THA
+,,,,,,,,,,Timor-Leste,TLS
+,,,,,,,,,,Togo,TGO
+,,,,,,,,,,Tokelau,TKL
+,,,,,,,,,,Tonga,TON
+,,,,,,,,,,Trinidad and Tobago,TTO
+,,,,,,,,,,Tunisia,TUN
+,,,,,,,,,,Turkey,TUR
+,,,,,,,,,,Turkmenistan,TKM
+,,,,,,,,,,Turks and Caicos Islands,TCA
+,,,,,,,,,,Tuvalu,TUV
+,,,,,,,,,,Uganda,UGA
+,,,,,,,,,,Ukraine,UKR
+,,,,,,,,,,United Arab Emirates,ARE
+,,,,,,,,,,United Kingdom of Great Britain and Northern Ireland,GBR
+,,,,,,,,,,United States of America,USA
+,,,,,,,,,,United States Minor Outlying Islands,UMI
+,,,,,,,,,,Uruguay,URY
+,,,,,,,,,,Uzbekistan,UZB
+,,,,,,,,,,Vanuatu,VUT
+,,,,,,,,,,Venezuela (Bolivarian Republic of),VEN
+,,,,,,,,,,Viet Nam,VNM
+,,,,,,,,,,Virgin Islands (British),VGB
+,,,,,,,,,,Virgin Islands (U.S.),VIR
+,,,,,,,,,,Wallis and Futuna,WLF
+,,,,,,,,,,Western Sahara,ESH
+,,,,,,,,,,Yemen,YEM
+,,,,,,,,,,Zambia,ZMB
+,,,,,,,,,,Zimbabwe,ZWE
